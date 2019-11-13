@@ -8,3 +8,4 @@ a clone of data visualisation from mapbox
 [https://saintsungminpark.github.io/application4](https://saintsungminpark.github.io/application4)
 
 ![ex_screenshot](./screenshot1.jpg)
+![ex_screenshot](./screenshot2.jpg)
